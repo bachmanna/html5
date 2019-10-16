@@ -1,6 +1,5 @@
-OPENDICOM
-Especialistas DICOMWEB™ y DICOM™
+OPENDICOM DICOMWEB ™ and DICOM ™ Specialists
 
-DICOMWEB™ es una extensión de DICOM™ para permitir la comunicación de imágenes médicas e informes por HTTP. Opendicom, nuestra compañia, se especializó en la arquitectura de sistemas que facilite esta comunicación hacia servicios en la nube y/o en forma distribuida.
+DICOMWEB ™ is an extension of DICOM ™ to allow communication of medical images and reports over HTTP. Opendicom, our company, specialized in systems architecture that facilitates this communication towards cloud services and / or distributed.
 
-Nuestros productos están diseñados para facilitar la interoperabilidad de soluciones DICOM™ pre existentes por complementación con extensiones DICOMWEB™. Son modulares y funcionalmente complementarios entre sí: cada nivel superior de funcionalidad requiere los niveles inferiores. Nuestra pila de aplicación consta con 5 niveles encima de la comunicación DICOM preexistente.
+Our products are designed to facilitate the interoperability of pre-existing DICOM ™ solutions by complementation with DICOMWEB ™ extensions. They are modular and functionally complementary to each other: each higher level of functionality requires the lower levels. Our application stack consists of 5 levels above the pre-existing DICOM communication.
